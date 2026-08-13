@@ -2,6 +2,7 @@
     // 1. THÔNG TIN CẤU HÌNH
     const CONFIG = {
         EVENT_ID: "evt-06fr3rtoss5vc",
+        //occurrences: https://cticket.vn/tix/public/events/v2/bigbang2026worldtourinhanoi-tickets
         OCC_ID: "occ-06ftne1b2jgtq",
         TARGET_HOUR: 9,
         TARGET_MINUTE: 59,
